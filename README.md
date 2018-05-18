@@ -9,6 +9,10 @@ probabilities of each word in headline being associated with a class and then fi
 headline hence it works good.
 
 ## Installation
+`pip install numpy  
+pip install scikit-learn  
+pip install imblearn  
+pip install seaborn`
 Dataset: https://data.world/elenadata/vox-articles
 
 ## Usage
